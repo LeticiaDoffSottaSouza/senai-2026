@@ -8,3 +8,5 @@ git push //envia as alterações para nuvem
 
 //Atualizar repositório local 
 git pull
+
+//Criação de Branchs
