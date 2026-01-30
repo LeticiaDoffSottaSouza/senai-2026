@@ -1,0 +1,10 @@
+//Clonar/copiar Repositório WEB 
+git clone https://github.com/LeticiaDoffSottaSouza/senai-2026.git
+
+//Atualizar Repositório WEB 
+git add . //verifica arquivos alterados
+git commit -m "algum comentário" //verifica as alterações nos arquivos
+git push //envia as alterações para nuvem
+
+//Atualizar repositório local 
+git pull
